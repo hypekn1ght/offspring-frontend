@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+/* Styles go here */
+
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.address-field {
+  margin: auto;
+}
+
+.offspring-field {
+  margin: auto;
+  font-size: large;
+}
+
+.selected {
+  border: 1px solid #00ff73;
+}
